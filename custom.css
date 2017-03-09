@@ -1,0 +1,17 @@
+.topbar {
+  background-color: #008080;
+}
+
+body {
+  background-color: #21252a;
+  color: grey;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.black {
+  background-color: #21252a;
+}
+
+.leftbar {
+  background-color: #606060;
+}
